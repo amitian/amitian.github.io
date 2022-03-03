@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        
+permalink:        http://amitian.github.io
 relative_permalinks: true
 
 # Setup
@@ -11,7 +11,7 @@ title:            Ami Tian
 tagline:          'Data Analyst / Data Scientist'
 description:      'a portfolio of data science projects'
 url:              http://amitian.github.io
-baseurl:          /
+baseurl:          /amitian/
 
 author:
   name:           'Ami Tian'
