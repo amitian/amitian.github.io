@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Ami Tian
 tagline:          'Data Analyst / Data Scientist'
 description:      'a portfolio of data science projects'
-url:              http://hyde.getpoole.com
+url:              http://amitian.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ami Tian'
+  url:            http://amitian.github.io
 
 paginate:         5
 
