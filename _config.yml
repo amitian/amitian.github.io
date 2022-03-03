@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        http://amitian.github.io
-relative_permalinks: true
+
 
 # Setup
 title:            Ami Tian
@@ -23,6 +23,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           
+  repo:
 
 theme: jekyll-theme-minimal
