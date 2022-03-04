@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        http://amitian.github.io
+permalink:        https://amitian.github.io
 
 
 # Setup
