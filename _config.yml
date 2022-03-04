@@ -10,12 +10,12 @@ permalink:        http://amitian.github.io
 title:            Ami Tian
 tagline:          'Data Analyst / Data Scientist'
 description:      'a portfolio of data science projects'
-url:              http://amitian.github.io
+url:              https://amitian.github.io
 baseurl:
 
 author:
   name:           'Ami Tian'
-  url:            http://amitian.github.io
+  url:            https://amitian.github.io
 
 paginate:         5
 
