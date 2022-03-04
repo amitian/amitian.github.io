@@ -5,16 +5,19 @@ title: Home
 
 
 <p>Hello! Thanks for stopping by. Here's a list of my data science projects:</p>
-<div class="posts">
-{% for post in paginator.posts %}
-<div class="post">
-  <h2 class="post-title">
-    <ul>
-      <a href="{{ post.url }}">
-      {{ post.title }}
-      </a>
-    </ul>
-  </h2>
-  </div>
-  {% endfor %}
-  </div>
+
+<ul>
+  <a href='{% link _posts/2022-03-03-nypd-fare-evasion.md %}'>MTA Ridership vs. NYPD Fare Evasion Arrests</a>
+</ul>
+<ul>
+  <a href='{% link _posts/2022-03-03-nyc-craigslist-apartment-prices.md %}'>Predicting Craigslist NYC Apartment Rental Prices</a>
+</ul>
+<ul>
+  <a href='{% link _posts/2022-03-04-nyc-energy-use-emissions.md %}'>Reducing Carbon Emissions of NYC's Large Buildings</a>
+</ul>
+<ul>
+  <a href='{% link _posts/2022-02-06-ANES-2020-election-nonvoters.md %}'>Predicting Nonvoters in the 2020 Presidential Election</a>
+</ul>
+<ul>
+  <a href='{% link _posts/2022-03-04-New-Yorker-short-story-recommender.md %}'>New Yorker Short Story Recommender</a>
+</ul>

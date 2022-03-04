@@ -116,3 +116,21 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+
+
+
+
+<div class="posts">
+{% for post in paginator.posts %}
+<div class="post">
+  <h2 class="post-title">
+    <ul>
+      <a href="{{ post.url }}">
+      {{ post.title }}
+      </a>
+    </ul>
+  </h2>
+  </div>
+  {% endfor %}
+  </div>

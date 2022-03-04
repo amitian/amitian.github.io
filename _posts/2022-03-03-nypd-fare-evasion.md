@@ -1,9 +1,7 @@
 ---
 layout: post
-title: NYPD Fare Evasion Arrests
+title: MTA Subway Ridership vs. NYPD Fare Evasion Arrests
 ---
-
-# MTA Subway Ridership vs. NYPD Fare Evasion Arrests
 
 ## Abstract
 
@@ -34,15 +32,22 @@ Data Sources:
 
 ## Results
 Union Square had the highest traffic, followed by the 6th Ave and 8th Ave stations.
+
 ![download (2)](https://user-images.githubusercontent.com/81931093/155898754-3857d0ac-50f8-40f0-b9f8-645cc5fea2c5.png)
 
+
 Atlantic Ave in East New York (not to be confused with the Atlantic-Barclays station in downtown Brooklyn!), which has relatively low traffic, had the most fare evasion arrests.
+
 ![download (3)](https://user-images.githubusercontent.com/81931093/155898756-031795ea-b9a7-40a7-bb56-7e487bc579dc.png)
 
+
 L stations in Brooklyn are located in areas with relatively lower median household incomes.
+
 ![download (4)](https://user-images.githubusercontent.com/81931093/155898762-10dfad52-9a52-4f3b-a3da-e3b37f336842.png)
 
+
 Aggregating fare evasion arrest data by race shows a disproportionate number of those arrested were Black, Hispanic or American Indian/Alaskan Native.
+
 ![download (5)](https://user-images.githubusercontent.com/81931093/155898765-9e5659c4-5164-47f1-9dc9-0bfdb576100f.png)
 
 See .pdf of Google Slides presentation on GitHub: [https://github.com/amitian/NYPD-fare-evasion-arrests](https://github.com/amitian/NYPD-fare-evasion-arrests)
