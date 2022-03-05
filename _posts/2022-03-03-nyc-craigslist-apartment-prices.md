@@ -2,21 +2,21 @@
 layout: post
 title: Predicting Craigslist NYC Apartment Rental Prices
 ---
-### Abstract
+## Abstract
 
 The goal of this project was to examine how an NYC apartment's monthly rental price might be affected by its features (i.e. square footage, location, amenities) in order for tenants and landlords to gain a better understanding of the rental market. I used data scraped from Craigslist's NYC apartment rental postings to build a linear regression model that could predict apartment rental prices based on certain features.
 
-### Design
+## Design
 
 This model could be used by tenants to find out if they are being undercharged or overcharged on their rent given the features of their apartment, or it could be used by landlords who are trying to determine a fair price to charge tenants. It could also be used by apartment-seekers who want to know how different features might influence the price of the rental and make decisions accordingly; for example, perhaps having an in-unit washer/dryer will become less of a priority for a potential renter once they learn that it correlates with a $400/month rental price increase.
 
-### Data
+## Data
 
 The data was scraped in one day from Craigslist's NYC apartment rentals section by scraping all of the posts (which go back to around 30 days) from each borough. Although the data scraped initially included over 7,000 data points, after cleaning the data, 4,609 data points were used to develop the model, with the model itself using 3,679 data points in the training/validation sets and 911 data points in the test set.
 
 The target was the apartment's monthly rental price. The features ultimately included in the model were: square footage, number of bedrooms, number of bathrooms, broker's fee, washer/dryer, parking, and borough (in addition to two interaction features).
 
-### Algorithms
+## Algorithms
 
 **Feature Engineering**
 
@@ -47,14 +47,14 @@ Mean Absolute Error: `671.15`
 
 Root Mean Squared Error: `1127.72`
 
-### Tools
+## Tools
 
 - Selenium and BeautifulSoup for web scraping
 - Numpy and Pandas for data cleaning and manipulation
 - Statsmodels and Scikit-learn for modeling
 - Matplotlib and Seaborn for plotting and visualizations
 
-### Communication
+## Results
 
 Ultimately, the linear regression model could only account for approximately 50% of the variance for the NYC monthly apartment rental prices scraped from Craigslist, suggesting that other factors must be taken into consideration when attempting to predict an apartment's rental price.
 
