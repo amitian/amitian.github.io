@@ -52,4 +52,4 @@ Aggregating fare evasion arrest data by race shows a disproportionate number of 
 
 See .pdf of Google Slides presentation on GitHub: [https://github.com/amitian/NYPD-fare-evasion-arrests](https://github.com/amitian/NYPD-fare-evasion-arrests)
 
-See interactive dashboard and more graphs on Tableau: [https://public.tableau.com/app/profile/amitian#!/] (https://public.tableau.com/app/profile/amitian#!/)
+See interactive dashboard and more graphs on Tableau: [https://public.tableau.com/app/profile/amitian#!/](https://public.tableau.com/app/profile/amitian#!/)
