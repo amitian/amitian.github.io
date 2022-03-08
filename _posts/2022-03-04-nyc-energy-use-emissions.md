@@ -21,8 +21,14 @@ I chose to focus on large buildings also in part because **[66-](http://onenyc.c
 An initial analysis of the datasets led to the following insights and recommendations:
 
 1. **Most of NYC's energy usage comes from natural gas.** For the city to reduce its carbon emissions, it must decrease its reliance on gas and oil and increase use of electricity generated onsite from renewable sources, which currently comprise only a small fraction of the city's total energy usage.
+![Screen Shot 2022-03-07 at 10 24 17 PM](https://user-images.githubusercontent.com/81931093/157160346-f22bb061-708f-4c58-8bf7-db9056cb1abb.png)
+
 2. **Residential properties have the highest total energy usage of any property type.** The city might focus on reducing energy usage at residential properties, perhaps by upgrading old buildings.
+![Screen Shot 2022-03-07 at 10 26 28 PM](https://user-images.githubusercontent.com/81931093/157160438-5f0ad578-5228-4bf6-b57d-09e5b8b3078a.png)
+
 3. **Much energy is lost from source to site.** The large difference between the total Site [Energy Use Intensity](https://www.energystar.gov/buildings/benchmark/understand_metrics/what_eui) and Source Energy Use Intensity points to energy being lost in the transfer from its source ([likely upstate NY](http://onenyc.cityofnewyork.us/initiatives/achieve-carbon-neutrality-and-100-percent-clean-electricity/)) to its site in NYC. Increased efficiency in energy transportation and/or the creation of more local sources of energy would help reduce the energy loss.
+![Screen Shot 2022-03-07 at 10 28 36 PM](https://user-images.githubusercontent.com/81931093/157160632-28afdbc1-ea94-487e-9a10-98048bb78a98.png)
+
 4. **"Clean" energy still generates carbon emissions.** There was a substantial decrease in emissions and energy usage from 2019 to 2020, possibly due to reduced energy usage as a result of COVID-19. In order to significantly reduce its greenhouse gas emissions, the city must cut down its overall energy consumption.
 
 Although no machine learning algorithms were employed in this project, future work could include time series modeling to analyze changes in emissions over time or linear regression to see which features of a building might correlate with higher emissions. Future work could reveal more specific insights, which could be used for more specific policy recommendations.
