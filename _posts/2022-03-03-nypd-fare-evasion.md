@@ -47,8 +47,7 @@ L stations in Brooklyn are located in areas with relatively lower median househo
 
 
 Aggregating fare evasion arrest data by race shows a disproportionate number of those arrested were Black, Hispanic or American Indian/Alaskan Native.
-
-![download (5)](https://user-images.githubusercontent.com/81931093/155898765-9e5659c4-5164-47f1-9dc9-0bfdb576100f.png)
+![newplot](https://user-images.githubusercontent.com/81931093/187459870-79106c11-9392-4acc-8a84-4f70114784e5.png)
 
 See .pdf of Google Slides presentation on GitHub: [https://github.com/amitian/NYPD-fare-evasion-arrests](https://github.com/amitian/NYPD-fare-evasion-arrests)
 
